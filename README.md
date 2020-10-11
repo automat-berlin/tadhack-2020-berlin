@@ -3,10 +3,11 @@
 This repository aggregates all work around the TADHack 2020 hack from the Berlin team:
 
 - [@barinali]( https://github.com/barinali ) contributed the web front-end: https://github.com/barinali/tadhack-2020-berlin-client
+- [@farukaydin]( https://github.com/farukaydin ) contributed the backend:  https://github.com/farukaydin/tadhack-berlin
 
 The team's presentation: 
 
-The team's pitch: 
+The team's pitch: https://www.youtube.com/watch?v=xkMn52XVQ4o
 
 ## Special Thanks
 
