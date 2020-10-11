@@ -1,1 +1,27 @@
-# tadhack-2020-berlin
+# TADHack 2020 Berlin Team
+
+This repository aggregates all work around the TADHack 2020 hack from the Berlin team:
+
+- [@barinali]( https://github.com/barinali ) contributed the web front-end: https://github.com/barinali/tadhack-2020-berlin-client
+
+The team's presentation: 
+
+The team's pitch: 
+
+## Special Thanks
+
+We would like to thank Dennis Kersten from vio:networks GmbH for the possibility of co-hosting the event.
+
+Thanks to Alan Quayle for organizing TADHack.
+
+Thanks to Simwood and Avaya for providing the APIs that made the hack possible.
+
+Thanks to Hubraum, the Deutsche Telekom incubator, for providing goodies and their API.
+
+## Contact
+
+Contact us if you have any questions via email info@automat.berlin or create an issue.
+
+## License
+
+The code in this repository is released under the MIT license. See [LICENSE](LICENSE) for details.
