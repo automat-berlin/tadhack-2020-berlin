@@ -5,9 +5,9 @@ This repository aggregates all work around the TADHack 2020 hack from the Berlin
 - [@barinali]( https://github.com/barinali ) contributed the web front-end: https://github.com/barinali/tadhack-2020-berlin-client
 - [@farukaydin]( https://github.com/farukaydin ) contributed the backend:  https://github.com/farukaydin/tadhack-berlin
 
-The team's presentation: 
+The team's presentation, done by Rafael: https://drive.google.com/file/d/1XDcWKFusAiUp_4y0WeJ53dr7_DjfPj0e/view?usp=sharing
 
-The team's pitch: https://www.youtube.com/watch?v=xkMn52XVQ4o
+The team's pitch, done by Rafael: https://www.youtube.com/watch?v=xkMn52XVQ4o
 
 ## Special Thanks
 
@@ -17,7 +17,7 @@ Thanks to Alan Quayle for organizing TADHack.
 
 Thanks to Simwood and Avaya for providing the APIs that made the hack possible.
 
-Thanks to Hubraum, the Deutsche Telekom incubator, for providing goodies and their API.
+Thanks to Hubraum, the Deutsche Telekom incubator, for providing goodies for local participation and their API.
 
 ## Contact
 
